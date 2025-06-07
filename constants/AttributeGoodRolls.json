@@ -187,6 +187,15 @@
           "mending"
         ]
       ]
-    }
+    },
+  "Fire Veil Wand": {
+    "regex": "(FIRE_VEIL_WAND)"
+    "list": [
+     [
+      "life_recovery",
+      "mana_steal"
+     ]
+    ]
+  }
   }
 }
