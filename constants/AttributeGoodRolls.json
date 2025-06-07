@@ -189,7 +189,7 @@
       ]
     },
   "Fire Veil Wand": {
-    "regex": "(FIRE_VEIL_WAND)"
+    "regex": "(FIRE_VEIL_WAND)",
     "list": [
      [
       "life_recovery",
